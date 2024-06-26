@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle:
 
@@ -8,31 +8,71 @@ subtitle:
 profile:
   align: right
   image: me.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+<!-- <br> -->
+<h4><b>Postdoctoral Researcher</b></h4>
+<a href='http://cps.kaist.ac.kr/'>Cyber-Physical Systems Laboratory</a><br>
+<a href='https://cs.kaist.ac.kr/'>School of Computing</a>, <a href='https://www.kaist.ac.kr/'>KAIST</a><br>
+<!-- <a href="assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">[Curriculum Vitae]</a> -->
+<!-- <a href='https://cs.kaist.ac.kr/'>School of Computing</a><br>
+<a href='https://www.kaist.ac.kr/'>KAIST</a><br> -->
 
-Postdoc @ <a href='http://cps.kaist.ac.kr/'>CPS Lab</a> <br>
-School of Computing, KAIST<br>
-Daejeon, South Korea<br>
-0jaehunny0@gmail.com<br>
+<h4><b>Contacts</b></h4>
+<!-- E-mail: <a href='mailto:0jaehunny0@gmail.com'>0jaehunny0@gmail.com</a><br> -->
+E-mail: 0jaehunny0@gmail.com<br>
+<!-- LinkedIn: <a href='https://www.linkedin.com/in/jaehunny/'>linkedin.com/in/jaehunny</a><br> -->
+Office: 4426, E3-1, KAIST<br>
 
-<b>Research Interests</b>
-<li> Battery Management Systems </li>
-<li> Mobile Systems </li>
-<li> Real-time Systems </li>
+<!-- <ul style="padding-left:20px;">
+<li>e-mail: 0jaehunny0 at gmail.com</li>
+<li>4426, E3-1, KAIST</li>
+<li>0jaehunny0@gmail.com</li>
+</ul> -->
+
+<!-- <h4><b>Research Interests</b></h4>
+<ul style="padding-left:20px;">
+<li> Battery management systems (scheduling/modeling, next-generation batteries, ...) </li>
+<li> Mobile systems: (power/thermal management, DVFS, AOSP, ...)</li>
+<li> Real-time systems: (non-preemptive tasks, non-work-conserving scheduling, ... )</li>
+</ul> -->
 
 
-<!-- I am a postdoctoral researcher in the School of Computing at KAIST and a member of the Cyber-Physical Systems Laboratory.
-
-My
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<h4><b>Research Interests</b></h4>
+<ul style="padding-left:20px;">
+<li> Battery management systems </li>
+  <ul style="padding-left:20px;">
+  <li>battery scheduling/modeling, next-generation batteries, ...</li>
+  </ul>
+<li> Mobile systems</li>
+  <ul style="padding-left:20px;">
+  <li>dynamic voltage and frequency scaling, battery/power/thermal management, ...</li>
+  </ul>
+<li> Real-time systems </li>
+  <ul style="padding-left:20px;">
+  <li>non-preemptive tasks, non-work-conserving scheduling, ...</li>
+  </ul>
+</ul>
+<!-- 
+<h4><b>Research Interests</b></h4>
+<ul style="padding-left:20px;">
+<li> Battery management systems </li>
+  <ul style="padding-left:20px;">
+  <li>battery scheduling/modeling</li>
+  <li>next-generation batteries</li>
+  </ul>
+<li> Mobile systems</li>
+  <ul style="padding-left:20px;">
+  <li>dynamic voltage and frequency scaling</li>
+  <li>battery/power/thermal management</li>
+  </ul>
+<li> Real-time systems </li>
+  <ul style="padding-left:20px;">
+  <li>non-preemptive scheduling</li>
+  <li>non-work-conserving scheduling</li>
+  </ul>
+</ul> -->

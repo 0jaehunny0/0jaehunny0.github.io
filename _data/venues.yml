@@ -1,5 +1,5 @@
 "AJP":
-  url: https://aapt.scitation.org/journal/ajp
+  url: https://www.color-hex.com/color/e83e8c
   color: "#00369f"
 
 "PhysRev":
@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"Real-time":
+  color: "#79DEC0"
+
+"Mobile":
+  color: "#F18BBA"
+
+"Battery":
+  color: "#66AFFF"
+
+"Security":
+  color: "#A6ACB1"
