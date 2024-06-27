@@ -205,6 +205,15 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+@media (max-width: 576px) {
+  .img-fluid {
+    max-width: 66.67%;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
