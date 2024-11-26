@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I submitted two papers: one on scheduling for battery swapping stations, and another on reinforcement learning-based DVFS for mobile devices. 📄📄
+I have submitted three papers as the first author and am waiting for the reviews. 📄📄📄
