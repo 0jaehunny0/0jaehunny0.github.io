@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers I co-authored as the second and third author were accepted by IEEE TII and UIST. 📄📄
+Two papers I co-authored as the second and third author have been accepted by IEEE TII and UIST. 📑📑
