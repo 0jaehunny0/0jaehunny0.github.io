@@ -51,11 +51,11 @@ Office: 4426, E3-1, KAIST<br>
 <ul style="padding-left:20px;">
 <li> Mobile systems</li>
   <ul style="padding-left:20px;">
-  <li>Android AOSP, dynamic voltage and frequency scaling, thermal management, ...</li>
+  <li>dynamic voltage and frequency scaling, Android AOSP, ...</li>
   </ul>
-<li> Battery/power management</li>
+<li> Battery/power/thermal management</li>
   <ul style="padding-left:20px;">
-  <li>battery modeling, next-generation batteries, ...</li>
+  <li>battery modeling, efficient voltage regulation, ...</li>
   </ul>
 <li> Real-time systems</li>
   <ul style="padding-left:20px;">
