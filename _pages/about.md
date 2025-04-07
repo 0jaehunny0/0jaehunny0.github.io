@@ -49,15 +49,15 @@ Office: 4426, E3-1, KAIST<br>
 
 <h4><b>Research Interests</b></h4>
 <ul style="padding-left:20px;">
-<li> Battery management systems </li>
-  <ul style="padding-left:20px;">
-  <li>battery scheduling/modeling, next-generation batteries, ...</li>
-  </ul>
 <li> Mobile systems</li>
   <ul style="padding-left:20px;">
-  <li>dynamic voltage and frequency scaling, battery/power/thermal management, ...</li>
+  <li>Android AOSP, dynamic voltage and frequency scaling, thermal management, ...</li>
   </ul>
-<li> Real-time systems </li>
+<li> Battery/power management</li>
+  <ul style="padding-left:20px;">
+  <li>battery modeling, next-generation batteries, ...</li>
+  </ul>
+<li> Real-time systems</li>
   <ul style="padding-left:20px;">
   <li>non-preemptive tasks, non-work-conserving scheduling, ...</li>
   </ul>
