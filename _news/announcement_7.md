@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper I authored as the first author has been accepted by ICCAD. 📑
+A paper I authored as the first author has been accepted to ICCAD. 📑

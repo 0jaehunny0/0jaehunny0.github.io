@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper I authored as the co-first author has been accepted by RTAS. 📑
+A paper I authored as the co-first author has been accepted to RTAS. 📑
