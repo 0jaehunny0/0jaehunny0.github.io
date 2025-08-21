@@ -20,18 +20,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <!-- <br> -->
-<h4><b>Postdoctoral Researcher</b></h4>
-<a href='http://cps.kaist.ac.kr/'>Cyber-Physical Systems Laboratory</a><br>
-<a href='https://cs.kaist.ac.kr/'>School of Computing</a>, <a href='https://www.kaist.ac.kr/'>KAIST</a><br>
+<h4><b>Assistant Professor</b></h4>
+<!-- <a href='http://cps.kaist.ac.kr/'>Cyber-Physical Systems Laboratory</a><br>
+<a href='https://cs.kaist.ac.kr/'>School of Computing</a>, <a href='https://www.kaist.ac.kr/'>KAIST</a><br> -->
+<a href='http://software.ajou.ac.kr/'>Department of Software and Computer Engineering</a><br>
+<a href='https://www.ajou.ac.kr/'>Ajou University</a><br>
+
 <!-- <a href="assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">[Curriculum Vitae]</a> -->
 <!-- <a href='https://cs.kaist.ac.kr/'>School of Computing</a><br>
 <a href='https://www.kaist.ac.kr/'>KAIST</a><br> -->
 
 <h4><b>Contacts</b></h4>
 <!-- E-mail: <a href='mailto:0jaehunny0@gmail.com'>0jaehunny0@gmail.com</a><br> -->
-E-mail: 0jaehunny0@gmail.com<br>
+<!-- E-mail: 0jaehunny0@gmail.com<br> -->
+E-mail: jhkwak@ajou.ac.kr<br>
 <!-- LinkedIn: <a href='https://www.linkedin.com/in/jaehunny/'>linkedin.com/in/jaehunny</a><br> -->
-Office: 4426, E3-1, KAIST<br>
+Office: 606, Paldal Hall, Ajou University<br>
 
 <!-- <ul style="padding-left:20px;">
 <li>e-mail: 0jaehunny0 at gmail.com</li>
