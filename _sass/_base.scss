@@ -50,6 +50,7 @@ table.table a {
 }
 
 .table-dark {
+  color: #212529;
   background-color: transparent;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
