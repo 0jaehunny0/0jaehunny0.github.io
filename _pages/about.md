@@ -18,6 +18,20 @@ announcements:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+
+custom_section: >
+  <h4><b>Professional Activities</b></h4>
+  <ul style="padding-left:20px;">
+  <li> Reviewer</li>
+    <ul style="padding-left:20px;">
+    <li> Nature Scientific Reports (2025)</li>
+    </ul>
+  <li> Artifact evaluation committee</li>
+    <ul style="padding-left:20px;">
+    <li> IEEE RTSS (2025) </li>
+    </ul>
+  </ul>
 ---
 <!-- <br> -->
 <p style="margin-bottom:0.5em; padding-bottom:0em;">
@@ -59,15 +73,15 @@ Office: 606, Paldal Hall, Ajou University<br>
 <ul style="padding-left:20px;">
 <li> Mobile systems</li>
   <ul style="padding-left:20px;">
-  <li>dynamic voltage and frequency scaling, Android AOSP, ...</li>
+  <li>Dynamic voltage and frequency scaling, Android AOSP, ...</li>
   </ul>
 <li> Battery/power/thermal management</li>
   <ul style="padding-left:20px;">
-  <li>battery modeling, efficient voltage regulation, ...</li>
+  <li>Battery modeling, efficient voltage regulation, ...</li>
   </ul>
 <li> Real-time systems</li>
   <ul style="padding-left:20px;">
-  <li>non-preemptive tasks, non-work-conserving scheduling, ...</li>
+  <li>Non-preemptive tasks, non-work-conserving scheduling, ...</li>
   </ul>
 </ul>
 <!-- 

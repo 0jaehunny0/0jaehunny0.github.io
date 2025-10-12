@@ -76,5 +76,11 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    {% if page.custom_section %}
+      <div class="custom-section">
+        {{ page.custom_section }}
+      </div>
+    {% endif %}
   </article>
 </div>
