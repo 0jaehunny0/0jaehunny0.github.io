@@ -1,3 +1,44 @@
+:root {
+  --global-theme-color: #2698ba;
+  --global-hover-color: #2698ba;
+  --global-divider-color: rgba(0, 0, 0, 0.2);
+}
+
+h2.post-title {
+  font-weight: 700;
+  text-align: center;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+article p code {
+  color: var(--global-theme-color);
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 87.5%;
+  font-weight: 300;
+  line-height: 1.5;
+  padding: 0.2rem 0.4rem;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+}
+
+.publications .badge {
+  display: inline-block;
+  border-radius: 0.25rem;
+  padding: 0.25em 0.4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+}
+
 /* 모바일에서 프로필 이미지가 너무 커지지 않게 제한 */
 .profile img {
   /* 데스크톱/모바일 공통: 유동 + 상한/하한 */
@@ -16,4 +57,16 @@
     max-width: 160px; /* 하드 캡 */
     width: 40vw;      /* 유동 캡 */
   }
+}
+
+/* Keep the v1 navbar visible when the Bootstrap compatibility layer is enabled. */
+@media (min-width: 576px) {
+  .navbar-expand-sm .navbar-collapse-main {
+    display: flex !important;
+    visibility: visible !important;
+  }
+}
+
+.navbar-collapse-main.show {
+  visibility: visible !important;
 }
